@@ -1,5 +1,6 @@
 body {
     text-align: center;
+    background-color: lightpink;
 }
 
 h1 {
@@ -18,4 +19,5 @@ footer {
 
 footer a {
     margin: 0 10px;
+    color: red;
 }
